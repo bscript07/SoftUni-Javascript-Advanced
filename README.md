@@ -1,14 +1,14 @@
 # JS Advanced
 
-В курса "JS Advanced" курсистите ще получат задълбочени познания по езика JavaScript, като основи на синтаксиса, работа с масиви, матрици, обекти, класове и писане на функции. Ще се изучават по-сложни концепции като function context, explicit binding, event loop. Курсът ще развие алгоритмичното мислене. След успешното завършване на този курс, участниците ще имат възможност да работят с DOM дървото, да правят манипулации по него и да работят с "event"-и. Ще се разглеждат функционалния и ООП подходите за програмиране с JavaScript, като ще се изучават концепции, като inheritance, object composition и prototype chain.
+In the "JS Advanced" course, students will gain in-depth knowledge of the JavaScript language, including syntax basics, working with arrays, matrices, objects, classes, and writing functions. More complex concepts such as function context, explicit binding, and the event loop will be studied. The course will enhance their algorithmic thinking. Upon successful completion of this course, participants will be able to work with the DOM tree, manipulate it, and work with events. Both functional and object-oriented programming approaches in JavaScript will be covered, with concepts such as inheritance, object composition, and the prototype chain being studied.
 
-# Придобити умения
+# Acquired Skills
 
-- Работа с класове и обекти
-- Работа с функции и JSON формати
-- Работа с линейни структури
-- Извличане на информация и манипулация на DOM дървото
-- Прилагане на обектно-ориентирано програмиране
-- Прилагане на функционалното програмиране
+- Working with classes and objects
+- Working with functions and JSON formats
+- Working with linear data structures
+- Extracting information and manipulating the DOM tree
+- Applying object-oriented programming
+- Applying functional programming
 
   ![JS Advanced - September 2023 - Certificate](https://github.com/BrayanMark/SoftUni-Javascript-Advanced/assets/145554659/4c73d87b-5890-4920-8727-2ac8cb22cc14)
